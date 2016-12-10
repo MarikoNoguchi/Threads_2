@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Threads_2</string>
+    <string name="btnPrint">print message</string>
+    <string name="btnLoad">load picture</string>
+</resources>
